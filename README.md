@@ -1,4 +1,4 @@
-# Navego App
+# Splash Screen App
 
 A new Flutter project.
 
